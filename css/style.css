@@ -158,7 +158,7 @@ body .fixed{
     position: fixed;
     width: 100%;
     display: block;
-    background: rgba(0, 0, 0, 0.7);
+    background: rgb(255 255 255 / 93%);
     z-index: 999;
 }
 
@@ -202,7 +202,7 @@ button.navbar-toggle {
 }
 
 .navbar-nav > li > a {
-    color: #fff !important;
+    color: rgb(0, 0, 0) !important;
     font-size: 14px;
     font-family:'ProximaNovaA-Semibold';
 }
@@ -258,6 +258,8 @@ i.fa.fa-shopping-cart {
 }
 
 .slider-item > img {
+    width: 130px;
+    height: 100px;
 }
 
 .slider-item > h2 {
@@ -265,7 +267,7 @@ i.fa.fa-shopping-cart {
     font-weight: 800;
     text-transform: uppercase;
     font-family:'ProximaNova-Extrabld';
-    color: #fff;
+    color: rgb(0, 0, 0);
     margin:0;
 }
 
@@ -273,7 +275,7 @@ i.fa.fa-shopping-cart {
     font-family:'ProximaNovaA-Regular';
     font-size: 14px;
     font-weight: 400;
-    color: #fff;
+    color: rgb(0, 0, 0);
     margin: 0;
 }
 
@@ -362,11 +364,12 @@ OFFER SECTION
 
 
 }
+/*border-top: 1px solid #e2e2e2;
+border-left: 1px solid #e2e2e2;
+border-bottom: 1px solid #e2e2e2;
+*/
 .benefit-item {
     text-align: center;
-    border-top: 1px solid #e2e2e2;
-    border-left: 1px solid #e2e2e2;
-    border-bottom: 1px solid #e2e2e2;
     padding: 0;
 }
 
@@ -801,6 +804,10 @@ FOOTER SECTION
 }
 
 .col-md-3 > p {
+    padding: 100px;
+    padding-top: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 .social-media {
