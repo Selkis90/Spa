@@ -78,7 +78,7 @@ div.body {
     margin: 0;
 }
 a {
-    color: #f3392f;
+    color:#009688;
     padding: 0;
     margin: 0;
     text-decoration: none;
@@ -111,7 +111,7 @@ h1,h2,h3,h4,h5,h6 {
     font-weight: normal;
     font-family: 'Roboto', serif;
     line-height: 140% !important;
-    color: #f3392f;
+    color:#009688;
 }
 h1 {font-size: 22px;}
 h2 {font-size: 20px;}
@@ -207,11 +207,13 @@ button.navbar-toggle {
     font-family:'ProximaNovaA-Semibold';
 }
 .navbar-nav > li > a:hover{
-    color: #e42a97 !important;
+    color:#009688 !important;
 }
 
+
+
 i.fa.fa-shopping-cart {
-    color: #e42a97;
+    color:#009688;
     margin-right: 10px;
 }
 .navbar-right > li {
@@ -338,7 +340,7 @@ OFFER SECTION
     padding: 0;
 }
 .offer-section a{
-    background: #e42a97;
+    background: #009688;
     color: #fff;
     font-size: 16px;
     text-transform: uppercase;
@@ -350,7 +352,7 @@ OFFER SECTION
     transition: all 0.5s
 }
 .offer-section a:hover{
-    background: #C8197F;
+    background:#009688;
 }
 
 .benefit-section {
@@ -358,7 +360,7 @@ OFFER SECTION
 }
 
 .section-title {
-    color:  #e42a97;
+    color: #009688;
     font-family:'ProximaNovaA-Semibold';
     font-weight: 600;
 
@@ -398,7 +400,7 @@ border-bottom: 1px solid #e2e2e2;
 }
 
 .benefit-item > h2 {
-    color: #e42a97;
+    color:#009688;
     font-family:'ProximaNovaA-Bold';
     font-size: 18px;
     font-weight: 700;
@@ -414,8 +416,8 @@ border-bottom: 1px solid #e2e2e2;
     min-height: 65px;
 }
 .benefit-item:hover{
-    background: #e42a97;
-    color: #e42a97
+    background:#009688;
+    color:#009688;
 }
 .benefit-item:hover p{
     color: #fff;
@@ -426,7 +428,7 @@ border-bottom: 1px solid #e2e2e2;
 }
 
 .benefit-item:hover img{
-    border: 5px solid #e955ac;
+    border: 5px solid #009688;
 }
 
 .benefit-item:hover h3{
@@ -448,7 +450,7 @@ MESSAGE SECTION
     font-family:'ProximaNovaA-Bold';
     font-weight: 700;
     text-align: center;
-    color:#e42a97
+    color: #009688;
 }
 .message-section p{
     font-family:'ProximaNovaA-Regular';
@@ -508,7 +510,7 @@ MESSAGE SECTION
     font-family:'ProximaNovaA-Bold';
     font-weight: 700;
     text-align: left;
-    color:#e42a97;
+    color: #009688;
     line-height: 40px;
 }
 
@@ -522,7 +524,7 @@ CLIENT SECTION
     padding-top: 82px
 }
 .client-section .section-title{
-    color: #e53099;
+    color: #009688;
     font-weight: 700;
     font-size: 34px;
     font-family:'ProximaNovaA-Bold';
@@ -541,7 +543,7 @@ CLIENT SECTION
 
 i.fa.fa-quote-left {
     display: block;
-    color: #e53099;
+    color:#009688;
     margin-bottom: 15px;
 }
 
@@ -577,7 +579,7 @@ i.fa.fa-quote-left {
 }
 
 .client-item > h3 {
-    color: #e42a97;
+    color: #009688;
     font-weight: 600;
     font-family:'ProximaNovaA-Semibold';
     font-size: 16px;
@@ -607,7 +609,7 @@ i.fa.fa-quote-left {
 }
 
 .blog-section .title-section{
-    color: #e53099;
+    color: #009688;
     font-weight: 700;
     font-size: 34px;
     font-family:'ProximaNovaA-Bold';
@@ -649,7 +651,7 @@ i.fa.fa-quote-left {
     padding: 0;
     font-size: 18px;
     font-weight: 700;
-    color: #e53099;
+    color: #009688;
     font-family:'ProximaNovaA-Bold';
     margin-bottom: 10px;
 }
@@ -665,7 +667,7 @@ i.fa.fa-quote-left {
 }
 
 .blog-content > a {
-    color: #e53099
+    color: #009688;
 }
 
 
@@ -767,12 +769,12 @@ TABLE SECTION
 }
 
 .gold > h3 {
-    color: #e53099;
+    color: #009688;
 }
 
 
 .gold > a {
-    background: #e53099
+    background: #009688;
 }
 
 .platinum > h3 {
@@ -830,7 +832,7 @@ FOOTER SECTION
     color: #919191;
 }
 .social-media > li > a:hover , .social-media > li > a:hover i{
-    background: #ea59ad;
+    background: #009688;
     color: #fff !important;
 }
 
@@ -840,7 +842,7 @@ FOOTER SECTION
     font-size: 18px;
 }
 .social-media > li > a:hover , .social-media > li > a:hover i{
-    background: #ea59ad;
+    background: #009688;
     color: #fff !important;
 }
 
@@ -858,7 +860,7 @@ FOOTER SECTION
 }
 
 .copyright > p , .copyright > p a{
-    color: #e53099;
+    color: #009688;
     font-weight: 600;
     font-family:'ProximaNovaA-Regular';
     font-size: 16px;
@@ -871,7 +873,7 @@ FOOTER SECTION
     height: 40px;
     width: 40px;
     display: block;
-    background: url(../image/arrow.bg.png) #ea59ad no-repeat;
+    background: url(../image/arrow.bg.png) #009688 no-repeat;
     background-size: auto;
     background-position: center;
     border-radius: 50%;
